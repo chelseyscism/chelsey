@@ -1,3 +1,5 @@
+![Banner](banner_pic.jpg)
+
 
 # Chelsey Scism
 Contact Info: cmscism@loyola.edu 
@@ -16,23 +18,26 @@ Political Science Major at the Loyola University of Maryland
 ### Projects
 
 #### Side Hustle - Car Buisness 
- Initial project idea: 
+
+**Summary:**
+This project was meant to estimate a monthly profit and cost margin for my car business. The goal was to find the grand total cost with loans included. I was able to do this through Microsoft Excel using formulas. 
+
+![Side Hustle Imag ](side_hustle.jpg)
+
+**Initial project idea:** 
 This project was used to estimate a profit margin for my car business side hustle. 
 
-Tools I used: 
+**Tools I used:** 
 I used Microsoft Excel for this project and formulas/ commands for my results. 
 
-Challenges I faced:
+**Challenges I faced:**
 I faced challenges with how to get my results. I overcame this by using different formulas until I was correct. 
 
-Other Resources: 
+**Other Resources:**
 I used recourses posted for my course to complete this assignment. 
 Result:
 I liked the results of this assignment. My goal was to find my profit margin which was achieved. 
 
-Summary:
-This project was meant to estimate a monthly profit and cost margin for my car business. The goal was to find the grand total cost with loans included. I was able to do this through Microsoft Excel using formulas. 
-![Side Hustle Image ](images/side hustle .jpg)
 
 ***
 #### Bi-Weekly Timesheet 
@@ -52,7 +57,9 @@ I set out to calculate how many hours I had worked; this was achieved.
 
 Summary:
 I enjoyed using this to calculate my time worked over a two week period. This assignment can be used and changed for any bi-weekly working chart which is helpful. 
-![Time sheet photo] (images/ bi weekly timesheet.jpg)
+![Time sheet photo](bi_weekly_timesheet.jpg)  
+
+
 #### Grade Calculator 
  - Initial project idea: 
 This assignment was used to estimate my final course grade using the course material and information. 
@@ -66,4 +73,5 @@ Result:
 I set out to calculate my possible grade for a course. I achieved this by setting it up weekly and inserting my possible grades with outcomes. 
 Summary:
 This assignment was used to alulae grades for nay course. It is interchangeable for any course of there same length. This project used the weeks of the course, the assessments, the weight, and overall grade possibilities to achieve completion. 
-![Grade Calculator Image] (images/grade calc.jpg)
+
+![Grade Calculator Image](grade_calc.jpg)
