@@ -1,6 +1,6 @@
 
-# FirstName LastName
-Contact Info: [fill in]
+# Chelsey Scism
+Contact Info: cmscism@loyola.edu 
 ### About Me 
 Hello! I am an experienced Server and Food Industry professional with over 5 years of proven expertise in the Industry. 
 
